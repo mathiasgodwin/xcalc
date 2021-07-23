@@ -1,6 +1,6 @@
 # xcalc
 
-A simple yet beautiful calculator application made with Dart and Flutter. (Strictly Under-Development).
+A simple yet beautiful calculator application made with Dart and Flutter. (Strictly Under-Development). The app is made from a good tutorial on the web.
 
 # Screenshots
 ![image](https://github.com/mathiasgodwin/xcalc/blob/main/screenshots/flutter_01.png)
